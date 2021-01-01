@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(243, 243, 243);
+}
+.cvet{
+    color: white;
+}
+.rasm{
+    height: 60%;
+    background-size: cover;
+    background-image: url(https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/184818/1_184818.jpg);
+}
+
+@media (max-width: 990px) {
+    .card{
+        margin-top: 15px;
+        
+    }
+}
