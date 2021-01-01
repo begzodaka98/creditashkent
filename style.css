@@ -9,6 +9,9 @@ body{
     background-size: cover;
     background-image: url(https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/184818/1_184818.jpg);
 }
+.razmer{
+    padding: 25;
+}
 
 @media (max-width: 990px) {
     .card{
