@@ -10,7 +10,7 @@ body{
     background-image: url(https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/184818/1_184818.jpg);
 }
 .razmer{
-    padding: 25;
+    padding: 25px;
 }
 
 @media (max-width: 990px) {
